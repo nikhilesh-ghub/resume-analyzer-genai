@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Resume Analyzer using Generative AI (Gemini + LangChain)
+# 🧠 AI-Powered Resume Analyzer using Generative AI 
 
 This project is an AI-powered resume analyzer that leverages **Google Gemini**, **LangChain**, and **Gradio** to extract skills, experience, education, and keywords from resumes and job descriptions. It performs a **skill gap analysis**, generates a **job-fit score**, and even creates a **tailored cover letter**.
 
