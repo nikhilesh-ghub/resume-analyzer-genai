@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+langchain-google-genai
+google-generativeai
+gradio
+pdfminer.six
+nltk
+python-dotenv
