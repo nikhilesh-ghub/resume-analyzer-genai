@@ -18,7 +18,7 @@ This project is an AI-powered resume analyzer that leverages **Google Gemini**, 
 
 ## 📸 Screenshots
 
-> *(Add your screenshots in a `/screenshots` folder)*
+> *screenshots*
 
 ---
 
