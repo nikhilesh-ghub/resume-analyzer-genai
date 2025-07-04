@@ -33,7 +33,21 @@ This project is an AI-powered resume analyzer that leverages **Google Gemini**, 
 | 🐍 Python | Backend logic |
 | 🔐 python-dotenv | API key management |
 
+
 ---
 
-## 📁 Project Structure
+## 📦 Installation
+
+### 🔧 Prerequisites
+- Python 3.8+
+- A Google Gemini API key
+
+### 📥 Clone and Install
+
+```bash
+git clone https://github.com/your-username/resume-analyzer-genai.git
+cd resume-analyzer-genai
+pip install -r requirements.txt
+---
+
 
