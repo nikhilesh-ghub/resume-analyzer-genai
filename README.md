@@ -14,13 +14,7 @@ This project is an AI-powered resume analyzer that leverages **Google Gemini**, 
 - 💌 Generate a **custom cover letter**
 - 🌐 Gradio-based UI for easy use
 
----
 
-## 📸 Screenshots
-
-> *screenshots*
-
----
 
 ## 🛠️ Tech Stack
 
